@@ -1,0 +1,7 @@
+{
+ "FirstName" : "Arun",
+ "LastName"  : "Kumar",
+ "Age"       : 26,
+ "Profession": "QA"
+ "Skills"   : ["Automation Testing", "API Testing", "Mobile Testing"]
+}

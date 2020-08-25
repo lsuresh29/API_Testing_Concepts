@@ -1,0 +1,52 @@
+
+API Testing 
+------------
+
+1. API Documentation - SwaggerUI
+2. How to integrate excel with rest assured
+
+3. What is the protocal used in your api testing?
+4. What are the protocal methods?
+5. How will you do the data validation? 
+6. Diff JSON Object and JSON Array
+7. What is JsonPath? its uses.
+
+8. How will you pass the request?
+	Ans:- PayLoad (JSON File)  
+	    - Can create using POJO class
+
+9. What is Serialization?
+	Ans: Java Object --> JSON OBject
+	i.e: Creating PayLoad
+
+10. What is De-Serialization?
+	Ans: JSON Object --> JSON Object
+	Data validation
+
+11. How will you acheive that?
+	Using POJO Class
+
+12. Status code?
+
+13. diff Put & Patch
+
+14. What is the framework?
+	Cucumber-BDD 
+
+Project: 
+
+	Cucumber-BDD 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
